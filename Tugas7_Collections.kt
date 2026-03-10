@@ -1,3 +1,6 @@
+//Nama : Baiq Alfia Zahira
+//NIM  : F1D02310042
+
 //ini kita buat data class sesuai ketentuan soal yang diberikan
 data class NilaiMahasiswa(
     val nim: String,
@@ -130,4 +133,5 @@ fun main() {
             println("${it.nama} - ${it.nilai}")
         }
     }
+
 }
